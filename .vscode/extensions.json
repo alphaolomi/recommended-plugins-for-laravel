@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "mikestead.dotenv",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "onecentlin.laravel-extension-pack",
+        "christian-kohler.path-intellisense",
+        "xdebug.php-debug",
+        "bmewburn.vscode-intelephense-client",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "stef-k.laravel-goto-controller",
+        "onecentlin.laravel5-snippets",
+        "onecentlin.laravel-blade",
+        "ryannaddy.laravel-artisan",
+        "rangav.vscode-thunder-client",
+        "eamodio.gitlens"
+    ]
+}
